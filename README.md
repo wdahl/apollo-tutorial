@@ -1,5 +1,5 @@
 # apollo-tutorial
-Apollos full-stack tutorial
+[Apollos full-stack tutorial](https://github.com/apollographql/fullstack-tutorial)
 # System requirements
 * [Node.js](https://nodejs.org/) v8.x or later
 * [npm](https://www.npmjs.com/) v6.x or later
