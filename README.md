@@ -1,5 +1,6 @@
 # apollo-tutorial
-[Apollos full-stack tutorial](https://www.apollographql.com/docs/tutorial/introduction/)
+[Apollos full-stack tutorial](https://www.apollographql.com/docs/tutorial/introduction/) guides you through building a full-stack, GraphQL-powered app with the Apollo platform.
+In this tutorial, you build an interactive app for reserving a seat on an upcoming SpaceX launch. All of the data is accessed through the SpaceX-API.
 # System requirements
 * [Node.js](https://nodejs.org/) v8.x or later
 * [npm](https://www.npmjs.com/) v6.x or later
